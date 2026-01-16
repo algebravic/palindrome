@@ -91,7 +91,7 @@ def solve_palindrome(mval: int, nval: int, rval: int, base: int = 10,
                      use_all: bool = True,
                      all_models: bool = True,
                      trace: int = 0,
-                     solver = 'cadical') -> List[str]:
+                     solver = 'cd195') -> List[str]:
     """
     Use a SAT solver to solve the palindrome problem.
     """
