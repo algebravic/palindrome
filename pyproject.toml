@@ -1,7 +1,7 @@
 [project]
 name = "palindrome"
-version = "0.1.0"
-description = ""
+version = "1.0.0"
+description = "Solve the problem a + b = c, where a||b||c is a palindrome."
 authors = [{ name = "Victor S. Miller", email = "victorsmiller@gmail.com" }]
 requires-python = ">=3.11, <4.0"
 readme = "README.md"
